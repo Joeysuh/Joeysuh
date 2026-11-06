@@ -17,7 +17,7 @@ Firmware that talks to silicon, buses, and batteries.
 
 | | |
 |---|---|
-| **Tesla** · Energy | Palo Alto, CA |
+| **Tesla** · Energy Firmware | Palo Alto, CA |
 | **Harbinger Motors** | OTA firmware validation · DoCAN / DoIP diagnostics · MACsec / TCU |
 | **Ford Motor Company** | Multi-threaded ECU simulation · deadlock debugging · CAN / DoIP |
 | **UW Formula SAE** | HIL / SIL bring-up · BMU firmware |
